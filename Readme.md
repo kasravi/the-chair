@@ -23,14 +23,14 @@ This repository serves as a living document for ideating, designing, and documen
 ## Definition and Design Intent
 
 The [Chair](defs/chair.md) is envisioned to embody the following qualities:
-- **[Comfortable](features/comfort)**
-- **[Ergonomic](features/ergonomy)**
-- **[Repairable](features/repair)**
-- **[Open](features/openness)**
-- **[Sustainable](features/sustainability)**
-- **[Accessible](features/access)**
-- **[Upcycled](features/lifeCycle)**
-- **[Beautiful](features/aesthetics)**
+- **[Comfortable](features/comfort.md)**
+- **[Ergonomic](features/ergonomy.md)**
+- **[Repairable](features/repair.md)**
+- **[Open](features/openness.md)**
+- **[Sustainable](features/sustainability.md)**
+- **[Accessible](features/access.md)**
+- **[Upcycled](features/lifeCycle.md)**
+- **[Beautiful](features/aesthetics.md)**
 
 **Wishes**  
 This is our initial wish list and may evolve as we refine our semantic and technical definitions. 
